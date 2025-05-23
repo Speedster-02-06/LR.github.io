@@ -1,3 +1,9 @@
+
+
+#Linear regression assumptions: 
 https://people.duke.edu/~rnau/testing.htm
 
-Linear regression assumptions
+
+#mount G Drive
+from google.colab import drive
+drive.mount('/content/drive')
