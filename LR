@@ -7,3 +7,5 @@ https://people.duke.edu/~rnau/testing.htm
 #mount G Drive
 from google.colab import drive
 drive.mount('/content/drive')
+
+Linear regression notes: https://kh3-ls-storage.s3.us-east-1.amazonaws.com/UPGrad/Linear%2BRegression%2BLecture%2BNotes.pdf
